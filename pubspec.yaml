@@ -1,0 +1,14 @@
+# Project name
+name: prompter_gt
+
+version: 0.0.1
+
+description: Library to create CLI projects
+
+# author: Genaro Tinoco <gtinocopalacios@gmail.com>
+
+homepage: https://github.com/genarot/dart_package_prompt
+
+
+environment:
+    sdk: <3.0.0
